@@ -32,6 +32,10 @@ body {
   background-color: rgba(61, 115, 255, 0.2) !important;
 }
 
+.text-primary-kun {
+  color: #3d73ff !important;
+}
+
 .text-success-kun {
   color: #53ec59 !important;
 }
@@ -106,4 +110,8 @@ img.heart-kun-move {
 
 .bg-transparent-kun {
   background: hsla(0, 0%, 100%, 0.89);
+}
+
+.bg-primary-kun {
+  background-color: #3d73ff !important;
 }
