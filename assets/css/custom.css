@@ -4,6 +4,7 @@
 }
 
 *::selection {
+  color: #2c67fc;
   background: rgba(61, 115, 255, 0.2);
 }
 
