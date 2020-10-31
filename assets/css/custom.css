@@ -144,6 +144,5 @@ textarea {
 }
 
 .mx-kun {
-    margin-left: 23rem !important;
-    margin-right: 23rem !important;
+    margin: 0 23rem !important;
 }
