@@ -1,6 +1,6 @@
 ## Landing Pages Challenge
 
-This template landing pages made for Challenge of Morning Front End Class at Glints Academy x BINAR on Batch 8, Look it now at easier on below link,
+This template landing pages made for Challenge of Morning Front End Class at Glints Academy x BINAR on Batch 8, Look it now easier on link below,
 - https://farridkun.github.io/challenge-landing-page/
 
 Build with :
