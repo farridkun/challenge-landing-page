@@ -142,3 +142,8 @@ textarea {
     width: 900px;
     height: 350px;
 }
+
+.mx-kun {
+    margin-left: 23rem !important;
+    margin-right: 23rem !important;
+}
