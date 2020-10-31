@@ -44,6 +44,14 @@ body {
     color: #ffe0e0 !important;
 }
 
+.text-2of3-majors-kun {
+    color: #dbeffa !important;
+}
+
+.text-3of3-majors-kun {
+    color: #def9d9 !important;
+}
+
 .text-gradient-kun {
     background: #3d73ff !important;
     background-image: linear-gradient( 45deg, #3d73ff 5%, #ff0032 52%, #ffe0e0 95%) !important;
