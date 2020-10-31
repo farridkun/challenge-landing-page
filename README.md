@@ -1,8 +1,14 @@
 ## Landing Pages Challenge
 
-1. Navbar is OK
-2. Main Content is OK
-3. Second Content is OK
+This template landing pages made for Challenge of Morning Front End Class at Glints Academy x BINAR on Batch 8, Look it now at easier on below link,
+- https://farridkun.github.io/challenge-landing-page/
+
+Build with :
+1. Bootstrap v4.5
+2. Google Fonts
+3. Font Awesome
+4. Animate
+5. AOS
 
 ---
 
