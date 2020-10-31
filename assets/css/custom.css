@@ -23,6 +23,17 @@ body {
     border-color: #2c67fc !important;
 }
 
+.btn-success-kun {
+    color: #fff !important;
+    background-color: #53ec59 !important;
+    border-color: #53ec59 !important;
+}
+
+.btn-success-kun:hover {
+    background-color: #34dea0 !important;
+    border-color: #34dea0 !important;
+}
+
 .btn-transparent-kun {
     background-color: transparent !important;
     border-color: transparent !important;
@@ -125,4 +136,9 @@ img.heart-kun-move {
 
 .bg-secondary-kun {
     background-color: #f7f7ff !important;
+}
+
+textarea {
+    width: 900px;
+    height: 350px;
 }
